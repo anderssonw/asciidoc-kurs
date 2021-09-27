@@ -4,7 +4,7 @@ Arrival is a very good movie because it plays with time in a very interesting wa
 Also HAWKEYE!!!
 
 .A cool alien, much like those in arrival
-image::images/cool_alien.jpg[A very cool alien]
+image::images/cool_alien.jpg[A very cool alien, 480,480]
 
 .COOL ACTORS IN ARRIVAL!
 * Jeremy Renner (HE IS HAWKEYE!!!!)
